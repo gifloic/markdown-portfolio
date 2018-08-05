@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My favorite sports are :
+1. Tennis
+2. Ski
+3. collectif sports
+    * Foot
+    * Volley
+    * Hand
+  
+And **Computing as well** even if I am a *very newbie in that task*
